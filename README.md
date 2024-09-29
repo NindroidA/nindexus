@@ -1,2 +1,2 @@
 # nindexus
-A discord bot for personal use
+A discord bot for personal use - test init
